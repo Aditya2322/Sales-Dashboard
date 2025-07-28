@@ -2,7 +2,7 @@
 
 An interactive and visually appealing **Sales Dashboard** built using **Power BI**, designed to monitor sales KPIs, customer trends, and regional performance with real-time filtering and dynamic visuals.
 
-![Sales Dashboard ](./images/dashboard.png)
+![Sales Dashboard ](./images/dashboard1.png)
 
 ---
 
